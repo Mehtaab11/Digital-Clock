@@ -32,11 +32,11 @@ body {
 }
 
 footer {
-    /* background-color: rgb(23, 48, 70); */
+    background-color: rgb(23, 48, 70);
     color: white;
     font-size: 14px;
     text-align: center;
-    position: fixed;
+    /* position: sticky; */
     bottom: 0;
     padding: 4px 0;
     width: 100%;
